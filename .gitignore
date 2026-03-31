@@ -34,6 +34,9 @@ htmlcov/
 # macOS
 .DS_Store
 
+# Database
+*.db
+
 # Environment variables
 .env
 .env.*

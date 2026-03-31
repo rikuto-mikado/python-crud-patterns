@@ -1,4 +1,4 @@
-from db import SessionLocal, User
+from src.db import SessionLocal, User
 from sqlalchemy.exc import IntegrityError
 
 
